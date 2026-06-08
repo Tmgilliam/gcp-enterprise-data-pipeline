@@ -1,0 +1,24 @@
+# GCP Enterprise Data Pipeline — Python dependencies
+
+# GCP SDKs
+google-cloud-storage>=2.16.0
+google-cloud-bigquery>=3.25.0
+google-cloud-bigquery-storage>=2.25.0
+google-cloud-pubsub>=2.21.0
+google-cloud-aiplatform>=1.56.0
+google-api-core>=2.19.0
+
+# Data processing
+pandas>=2.2.0
+pyarrow>=16.0.0
+apache-beam[gcp]>=2.56.0
+
+# ML
+scikit-learn>=1.5.0
+kfp>=2.7.0
+
+# Dashboard
+streamlit>=1.35.0
+
+# Utilities
+python-dateutil>=2.9.0
