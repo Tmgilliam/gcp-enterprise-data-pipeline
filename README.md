@@ -128,6 +128,7 @@ Architecture patterns — data lake zones, medallion datasets, feature stores, M
 ## Related Projects
 
 - [ERP AI Delay Risk](../erp-ai-delay-risk/) — Application layer (Cloud Run inference)
+- [GCP Microservices + Apigee](../gcp-microservices-api-gateway/) — Service decomposition + API gateway (Phase 7)
 - [Forecasting and Planning Support](../forecasting-planning-support/) — Demand forecasting (feeds demand signals)
 
 ---

@@ -3,7 +3,8 @@
 **Dr. Tatianna Gilliam** | Cloud & AI Architect | AZ-305 | AI-102 | AZ-104
 
 **Project:** GCP Enterprise Data Pipeline — BigQuery + Vertex AI  
-**Upstream consumer:** [ERP AI Delay Risk](../erp-ai-delay-risk/) (Cloud Run inference service)  
+**Upstream consumer:** [ERP AI Delay Risk](https://github.com/Tmgilliam/erp-ai-delay-risk) (Cloud Run inference service)  
+**Companion project:** [GCP Microservices + Apigee](https://github.com/Tmgilliam/gcp-microservices-api-gateway) (Phase 7 service decomposition)  
 **Positioning:** Platform layer above individual services — proves GCP data platform architecture depth
 
 ---
